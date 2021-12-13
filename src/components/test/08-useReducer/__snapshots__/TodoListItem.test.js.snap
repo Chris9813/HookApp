@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en TodoLisItem debe mostrarse correctamnete  1`] = `
+<div>
+  <p
+    className="false"
+    onClick={[Function]}
+  >
+    1
+    . 
+    aprender Mongo
+  </p>
+  <button
+    className="btn btn-danger"
+    key="1"
+    onClick={[Function]}
+  >
+     Borrar
+  </button>
+</div>
+`;

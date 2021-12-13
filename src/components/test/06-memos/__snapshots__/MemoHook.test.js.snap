@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas con la alicacion MemoHooks debe mostrar la info correctamente  1`] = `
+<div>
+  <h1>
+    MEMO HOOK
+  </h1>
+  <h2>
+    counter 
+    5
+  </h2>
+  <hr />
+  <p>
+    numero de iteraciones 
+    5 
+     
+  </p>
+  <button
+    className="btn btn-primary ml-3"
+    onClick={[Function]}
+  >
+    +1
+  </button>
+  <button
+    className="btn btn-outline-primary ml-4"
+    onClick={[Function]}
+  >
+    Show/hide 
+    true
+  </button>
+</div>
+`;
